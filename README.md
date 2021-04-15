@@ -1,5 +1,5 @@
-# predict_co2emission_Linear-regression_simple_multiple_polynomial_python
-Dataset is related to fuel consumption and Carbon dioxide emission of cars.I built a model to predict  produced co2emission.
+###	Predict CO2 Emission for each car(Linear regression, multiple, polynomial)
+Dataset is related to fuel consumption and Carbon dioxide emission of cars. I built a model to predict produced co2 emission for each car.
 ## libraries
 - numpy
 - pandas
