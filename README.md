@@ -1,5 +1,5 @@
 # predict_co2emission_Linear-regression_simple_multiple_polynomial_python
-In this project data is almost clean.Features are   MODELYEAR ,MAKE, MODEL, VEHICLE CLASS, ENGINE SIZE, CYLINDERS, TRANSMISSION ,FUEL CONSUMPTION in CITY(L/100 km),FUEL CONSUMPTION in HWY (L/100 km), FUEL CONSUMPTION COMB (L/100 km) ,CO2 EMISSIONS and we want predict CO2EMISSION for cars.
+Dataset is related to fuel consumption and Carbon dioxide emission of cars.I built a model to predict  produced co2emission.
 ## libraries
 - numpy
 - pandas
